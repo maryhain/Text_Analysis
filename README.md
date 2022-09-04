@@ -1,2 +1,9 @@
 # Text_Analysis
-creating list of the most 100 words occurrence in the novel and there is another stop words list. after finding the 100 words and then  make sure that these 100 words are not in the stop words list .
+########################################
+# using Java 8  
+# Find the most 100 frequently words in text file by using HashMap and List to assign all values
+# then compare these words to another stop words list to make sure that these words arenot in the 
+# stop words list.
+# used maven to test the project and create POM file.
+###################################################################################################
+###################################################################################################
